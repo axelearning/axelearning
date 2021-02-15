@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @axelearning
+- 👋 Hi, I’m Axel Rasse
 - 👀 I’m interested in everything around data science 
 - 🌱 I’m currently learning [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) and [CS50](https://cs50.harvard.edu/x/2021/)
 - 💞️ I’m looking to collaborate on ManimCE
