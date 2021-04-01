@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Axel Rasse
 - 👀 I’m interested in everything around data science 
-- 🌱 I’m currently learning [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) and [CS50](https://cs50.harvard.edu/x/2021/)
+- 🌱 I’m currently learning [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) and [WebS50](https://cs50.harvard.edu/web/2020/)
 - 💞️ I’m looking to collaborate on ManimCE
-- 📫 How to reach me axel.rasse@gmail.com
+- 📫 How to reach me axel.rasse97434@gmail.com
 
 <!---
 axelearning/axelearning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
