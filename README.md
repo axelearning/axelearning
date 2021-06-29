@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Axel Rasse
 - 👀 I’m interested in everything around data science 
-- 🌱 I’m currently learning [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- 🌱 I’m currently learning [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
 - 📫 How to reach me axel.rasse97434@gmail.com
 
 <!---
