@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a self-taught data scientist from Reunion Island ☀️
+I am a self-taught data scientist from Reunion Island 
 
 - 🔭 I am currently working on a chrome extension that helps people write better  
 - 🌱 I’m learning [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
