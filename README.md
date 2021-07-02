@@ -1,11 +1,17 @@
+### Bonjour 👋
+Je suis un Data Scientist de l'île de la Réunion. Si tu veux te faire une idée précise de mon niveau : 👉 [click-ici](https://github.com/axelearning/my-learning-path)
+- 🔭 Je travaille actuellement sur une extension chrome qui aide les gens à mieux écrire.
+- 🌱 Je suis en train d'apprendre [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
+- 💬 Posez-moi des questions sur [NumPy](https://numpy.org/) et [pandas](https://pandas.pydata.org/)
+- 👨‍💻 Je cherche à collaborer à un compétition kaggle.
+
+<!-- 
 ### Hi there 👋
-I am a self-taught data scientist from Reunion Island 
+I am a data scientist from Reunion Island 
 
 - 🔭 I am currently working on a chrome extension that helps people write better  
 - 🌱 I’m learning [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
 - 💬 Ask me about [NumPy](https://numpy.org/) and [pandas](https://pandas.pydata.org/)
-- 🧑‍💻 I’m looking to collaborate on a kaggle competition 
-<!---
-axelearning/axelearning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧑‍💻 I’m looking to collaborate on a kaggle competition  -->
+
+
