@@ -4,7 +4,6 @@ Je suis un Data Scientist de l'île de la Réunion. Si tu veux te faire une idé
 - 🌱 Je suis en train d'apprendre [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
 - 💬 Posez-moi des questions sur [NumPy](https://numpy.org/) et [pandas](https://pandas.pydata.org/)
 - 👨‍💻 Je cherche à collaborer à un compétition kaggle.
-<br>
 
 ### Mes projets :
 - **[Rest auth api]()**, gèrer l'authentification et les permissions de différents groupes d'utilisateurs 
