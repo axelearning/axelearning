@@ -6,7 +6,7 @@ Je suis un Data Scientist de l'île de la Réunion. Si tu veux te faire une idé
 - 👨‍💻 Je cherche à collaborer à un compétition kaggle.
 
 ### Mes projets :
-- [Rest auth api](), gèrer l'authentification et les permissions de différents groupes d'utilisateurs 
+- [Rest auth api](https://github.com/axelearning/REST-authentication-API), gèrer l'authentification et les permissions de différents groupes d'utilisateurs 
 - [House Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maison
 - [Dashboard Covid-19](), suivre et explorer la propagation du Covid-19 
 <!-- 
