@@ -7,12 +7,14 @@ Je suis un Data Scientist de l'île de la Réunion.
 - 👨‍💻 Je cherche des collaborateurs pour une compétition kaggle.
 
 Si vous voulez vous faire une idée précise de mon niveau : 👉 [clickez-ici](https://github.com/axelearning/my-learning-path)
+<br/>
+<br/>
 
-
-### Mes projets :
+### Mes projets 
 - [Rest auth api](https://github.com/axelearning/REST-authentication-API), gèrer l'authentification et les permissions de différents groupes d'utilisateurs 
 - [House Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maison
 - [Dashboard Covid-19](), suivre et explorer la propagation du Covid-19 
+<br/>
 
 ### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -22,7 +24,8 @@ Si vous voulez vous faire une idée précise de mon niveau : 👉 [clickez-ici](
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)](#) 
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
 [![SQL Badge](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&labelColor=black&logo=SQLite&logoColor=white)](#) 
-<br>
+<br/>
+<br/>
 
 
 ### Contactez moi
