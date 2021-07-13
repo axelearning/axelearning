@@ -4,9 +4,9 @@ Je suis un Data Scientist de l'île de la Réunion.
 - 🔭 Je travaille actuellement sur une extension chrome qui aide les gens à mieux écrire
 - 🌱 Je suis en train d'apprendre le Deep Learning avec [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
 - 💬 Posez-moi des questions sur [NumPy](https://numpy.org/) et [pandas](https://pandas.pydata.org/)
-- 👨‍💻 Je cherche des collaborateur pour une compétition kaggle.
+- 👨‍💻 Je cherche des collaborateurs pour une compétition kaggle.
 
-Si tu veux te faire une idée précise de mon niveau : 👉 [click-ici](https://github.com/axelearning/my-learning-path)
+Si vous voulez vous faire une idée précise de mon niveau : 👉 [clickez-ici](https://github.com/axelearning/my-learning-path)
 
 
 ### Mes projets :
