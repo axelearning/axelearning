@@ -2,7 +2,7 @@
 
 Je suis un Data Scientist de l'île de la Réunion. J'ai appris la science des données et le devellopement web en autonomie !
 <br/>
-👉 [Mon parcours](https://github.com/axelearning/my-learning-path) 
+👉 [mon parcours](https://github.com/axelearning/my-learning-path) 
 <br/>
 
 - 🔭 Je travaille actuellement sur une extension chrome qui aide les gens à mieux écrire
