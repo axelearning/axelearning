@@ -5,7 +5,7 @@ Je suis un Data Scientist de l'île de la Réunion. J'ai appris la science des d
 👉 [mon parcours](https://github.com/axelearning/my-learning-path) 
 <br/>
 
-- 🔭 Je travaille actuellement sur une extension chrome qui aide les gens à mieux écrire
+- 🔭 Je travaille actuellement sur une application qui classifie les poissons du lagon de la Réunion
 - 🌱 Je suis en train d'apprendre le Deep Learning avec [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
 - 💬 Posez-moi des questions sur NumPy et pandas
 - 👨‍💻 Je cherche des collaborateurs pour une compétition kaggle.
