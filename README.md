@@ -1,20 +1,22 @@
 ## Bonjour <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Je suis un Data Scientist de l'île de la Réunion. J'ai appris la science des données et le développement web en autonomie !
+Je suis un data scientist et un développeur backend de l'île de la Réunion. Je me suis formé en autonomie.
 <br/>
 👉 [mon parcours](https://github.com/axelearning/my-learning-path) 
 <br/>
 
-- 🔭 Je travaille actuellement sur une [application](https://github.com/axelearning/fish_and_chips) qui classifie les poissons du lagon de la Réunion
+- 🔭 Je travaille actuellement sur [l’intégration de l'API de Notion](https://github.com/axelearning/notion_automation) pour [Naas](https://www.naas.ai/)
 - 🌱 Je suis en train d'apprendre le Deep Learning avec [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
 - 💬 Posez-moi des questions sur NumPy et pandas
 - 👨‍💻 Je cherche des collaborateurs pour une compétition kaggle.
 <br/>
 
 ### Mes projets 
+- [Classification des poissons de la Réunion](https://github.com/axelearning/fish_and_chips), une application web qui va reconnaître les poissons du lagon de l'île de la Reunion
 - [Rest auth api](https://github.com/axelearning/REST-authentication-API), gèrer l'authentification et les permissions de différents groupes d'utilisateurs 
-- [House Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maison
-- [Dashboard Covid-19](), suivre et explorer la propagation du Covid-19 
+<!-- - [House Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maison
+- [Dashboard Covid-19](), suivre et explorer la propagation du Covid-19  -->
+
 <br/>
 
 ### Top Technologies
