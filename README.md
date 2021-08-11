@@ -13,9 +13,10 @@ Je suis un data scientist et un développeur backend de l'île de la Réunion. J
 
 ### Mes projets 
 - [Classification des poissons de la Réunion](https://github.com/axelearning/fish_and_chips), une application web qui va reconnaître les poissons du lagon de l'île de la Reunion
-- [Rest auth api](https://github.com/axelearning/REST-authentication-API), gèrer l'authentification et les permissions de différents groupes d'utilisateurs 
+- [Rest auth api](https://github.com/axelearning/REST-authentication-API), gèrer l'authentification et les permissions de différents groupes d'utilisateurs
+- [Dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), suivre et explorer la propagation du virus  
 <!-- - [House Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maison
-- [Dashboard Covid-19](), suivre et explorer la propagation du Covid-19  -->
+ -->
 
 <br/>
 
