@@ -4,7 +4,7 @@ Je suis un data scientist et un développeur backend de l'île de la Réunion. J
 <br/>
 👉 [mon parcours](https://github.com/axelearning/my-learning-path) 
 <br/>
-
+<br/>
 - 👔 Je suis actuellement à la cherche d'un emploi à Bruxelles
 - 🤝 Je colabore avec [Naas](https://www.naas.ai/) afin d’intégrer les fonctionnalités de [l'API de Notion](https://github.com/axelearning/notion_automation) avec leur outil
 - 🌱 Je suis en train d'apprendre le Deep Learning avec [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
