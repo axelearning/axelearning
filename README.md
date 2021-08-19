@@ -5,15 +5,15 @@ Je suis un data scientist et un développeur backend de l'île de la Réunion. J
 👉 [mon parcours](https://github.com/axelearning/my-learning-path) 
 <br/>
 
-- 🔭 Je travaille actuellement sur une [intégration de l'API de Notion](https://github.com/axelearning/notion_automation) avec [Naas](https://www.naas.ai/)
+- 👔 Je suis actuellement à la cherche d'un emploi à Bruxelles
+- 🤝 Je colabore avec [Naas](https://www.naas.ai/) afin d’intégrer les fonctionnalités de [l'API de Notion](https://github.com/axelearning/notion_automation) avec leur outil
 - 🌱 Je suis en train d'apprendre le Deep Learning avec [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
-- 💬 Posez-moi des questions sur NumPy et pandas
-- 👨‍💻 Je cherche des collaborateurs pour une compétition kaggle.
+- 💬 Posez-moi des questions concernant NumPy et pandas
 <br/>
 
 ### Mes projets 
 - [Classification des poissons de la Réunion](https://github.com/axelearning/fish_and_chips), une application web qui va reconnaître les poissons du lagon de l'île de la Reunion
-- [Rest auth api](https://github.com/axelearning/REST-authentication-API), gèrer l'authentification et les permissions de différents groupes d'utilisateurs
+- [Rest auth api](https://github.com/axelearning/REST-authentication-API), gérer l'authentification et les permissions de différents groupes d'utilisateurs
 - [Dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), suivre et explorer la propagation du virus  
 <!-- - [House Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maison
  -->
