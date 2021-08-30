@@ -12,9 +12,9 @@ I am a french data scientist and a backend developer from Reunion Island<br/>
 
 
 ### My projects
-- [WEB APP: Fish classifier](https://github.com/axelearning/fish_and_chips), a web application which recognize the fish from Reunion Island's lagoon
-- [Rest API: Manage user authentication](https://github.com/axelearning/REST-authentication-API), manage authentication and permissions
-- [WEB APP: Dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), track and explore the virus propagation  
+- [Fish classifier](https://github.com/axelearning/fish_and_chips), a web application which recognize the fish from Reunion Island's lagoon [WEB APP]
+- [Manage user authentication](https://github.com/axelearning/REST-authentication-API), manage authentication and permissions [REST API]
+- [Dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), track and explore the virus propagation [WEB APP]
 
 <br/>
 
