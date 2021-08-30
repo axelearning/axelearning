@@ -1,27 +1,24 @@
-## Bonjour <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Je suis un data scientist et un développeur backend de l'île de la Réunion. Je me suis formé en autonomie.
+I am a french data scientist and a backend developer from Reunion Island<br/>
+👉 [my skills](https://github.com/axelearning/my-learning-path) 
 <br/>
-👉 [mon parcours](https://github.com/axelearning/my-learning-path) 
 <br/>
-<br/>
-- 👔 Je suis actuellement à la cherche d'un emploi à Bruxelles
-- 🤝 Je colabore avec [Naas](https://www.naas.ai/) afin d’intégrer les fonctionnalités de [l'API de Notion](https://github.com/axelearning/notion_automation) avec leur outil
-- 🌱 Je suis en train d'apprendre le Deep Learning avec [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
-- 💬 Posez-moi des questions concernant NumPy et pandas
+- 👔 I am currently looking for a job in Brussels or Paris
+- 🤝 I'm building with [Naas](https://www.naas.ai/) a low code tool to interact with Notion API
+- 🌱  I'm currently learning Deep Learning with [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
+- 💬 Ask me questions about NumPy and pandas
 <br/>
 
-### Mes projets 
-- [Classification des poissons de la Réunion](https://github.com/axelearning/fish_and_chips), une application web qui va reconnaître les poissons du lagon de l'île de la Reunion
-- [Rest auth api](https://github.com/axelearning/REST-authentication-API), gérer l'authentification et les permissions de différents groupes d'utilisateurs
-- [Dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), suivre et explorer la propagation du virus  
-<!-- - [House Prices - Advanced Regression Techniques](), prédire le prix de vente d'une maison
- -->
+
+### My projects
+- [WEB APP: fish classifier](https://github.com/axelearning/fish_and_chips), a web application which recognize the fish from Reunion Island's laggon
+- [Rest API: Manage user authentication](https://github.com/axelearning/REST-authentication-API), manage authentication and permissions
+- [WEB APP: Dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), track and explore the virus propagation  
 
 <br/>
 
-### Top Technologies
-<!-- TODO: Make technologies links takes you to repositories -->
+### Top Technology
 [![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=Numpy&logoColor=white)](#https://numpy.org/) 
 [![pandas Badge](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)](#https://pandas.pydata.org/)
 [![Scikit learn Badge](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=white)](#)
@@ -32,6 +29,6 @@ Je suis un data scientist et un développeur backend de l'île de la Réunion. J
 <br/>
 
 
-### Contactez moi
+### Reach me
 [![Linkedin Badge](https://img.shields.io/badge/-Axel_Rasse-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-rasse-bbbb3812b/) 
 [![Mail Badge](https://img.shields.io/badge/-axel.rasse97434-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:axel.rasse97434@gmail.com)
