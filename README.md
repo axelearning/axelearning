@@ -1,14 +1,11 @@
 ## Hi there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I am a french data scientist and a backend developer from Reunion Island<br/>
-👉 [my skills](https://github.com/axelearning/my-learning-path) 
-<br/>
-<br/>
+
 - 👔 I am currently looking for a job in Brussels or Paris
 - 🤝 I'm building with [Naas](https://www.naas.ai/) a low code tool to interact with Notion API
 - 🌱  I'm currently learning Deep Learning with [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
 - 💬 Ask me questions about NumPy and pandas
-<br/>
 
 
 ### My projects
@@ -16,7 +13,7 @@ I am a french data scientist and a backend developer from Reunion Island<br/>
 - [Manage user authentication](https://github.com/axelearning/REST-authentication-API), manage authentication and permissions [REST API]
 - [Dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), track and explore the virus propagation [WEB APP]
 
-<br/>
+#### 👉 check out [my skills](https://github.com/axelearning/my-learning-path) 
 
 ### Top Technology
 [![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=Numpy&logoColor=white)](#https://numpy.org/) 
