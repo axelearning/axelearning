@@ -12,6 +12,7 @@ I am a french data scientist and a backend developer from Reunion Island<br/>
 - [Fish classifier](https://github.com/axelearning/fish_and_chips), a web application which recognize the fish from Reunion Island's lagoon [WEB APP]
 - [Manage user authentication](https://github.com/axelearning/REST-authentication-API), manage authentication and permissions [REST API]
 - [Dashboard Covid-19](https://github.com/axelearning/covid19_dashboard), track and explore the virus propagation [WEB APP]
+- [Notion low code tool](https://github.com/axelearning/notion_low_code_interface), a low code tool used to simplify interaction with Notion [LIB]
 - [Sales Analysis](https://github.com/axelearning/sale_analysis), data storytelling of a sales company specialized in electronics [WEB REPORT] 
 
 #### 👉 check out [my skills](https://github.com/axelearning/my-learning-path) 
