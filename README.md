@@ -2,7 +2,7 @@
 
 I am a french data scientist and a backend developer from Reunion Island<br/>
 
-- 👔 I am currently working in Brussels for [Riaktr](https://www.riaktr.com/)
+- 👔 I am currently working in Brussels for [Riaktr](https://www.riaktr.com/) as a Big Data Consultant 
 - 🤝 I'm building with [Naas](https://www.naas.ai/) a low code tool to interact with Notion API
 - 🌱  I'm currently learning Deep Learning with [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
 - 💬 Ask me questions about NumPy and pandas
