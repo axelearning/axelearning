@@ -17,18 +17,19 @@ I am a french data scientist and a backend developer from Reunion Island<br/>
 
 #### 👉 check out [my skills](https://github.com/axelearning/my-learning-path) 
 
-
-### Top Technology
-[![Numpy Badge](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&labelColor=black&logo=Numpy&logoColor=white)](#https://numpy.org/) 
-[![pandas Badge](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)](#https://pandas.pydata.org/)
-[![Scikit learn Badge](https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=white)](#)
-[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)](#) 
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
-[![SQL Badge](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&labelColor=black&logo=SQLite&logoColor=white)](#) 
-<br/>
-<br/>
-
-
 ### Reach me
 [![Linkedin Badge](https://img.shields.io/badge/-Axel_Rasse-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-rasse-bbbb3812b/) 
 [![Mail Badge](https://img.shields.io/badge/-axel.rasse97434-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:axel.rasse97434@gmail.com)
+
+### Top Technology
+[![Numpy Badge](https://img.shields.io/badge/-Numpy-blue?style=for-the-badge&labelColor=black&logo=Numpy&logoColor=white)](#https://numpy.org/) 
+[![pandas Badge](https://img.shields.io/badge/-pandas-blue?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)](#https://pandas.pydata.org/)
+[![Scikit learn Badge](https://img.shields.io/badge/-scikit_learn-blue?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=white)](#)\
+[![PySpark Badge](https://img.shields.io/badge/-PySPark-green?style=for-the-badge&labelColor=black&logo=apachespark&logoColor=white)](#)
+[![Docker Badge](https://img.shields.io/badge/-Docker-green?style=for-the-badge&labelColor=black&logo=Docker&logoColor=white)](#) 
+[![Airflow Badge](https://img.shields.io/badge/-Airflow-green?style=for-the-badge&labelColor=black&logo=apacheairflow&logoColor=white)](#) 
+[![Linux Badge](https://img.shields.io/badge/-Linux-green?style=for-the-badge&labelColor=black&logo=Linux&logoColor=white)](#) \
+[![SQL Badge](https://img.shields.io/badge/-SQL-red?style=for-the-badge&labelColor=black&logo=SQLite&logoColor=white)](#) 
+[![NoSQL Badge](https://img.shields.io/badge/-NoSQL-red?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=white)](#) 
+
+
