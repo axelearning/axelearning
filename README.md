@@ -1,10 +1,13 @@
 ## Hi there 👋
-I am a french data scientist and a backend developer from Reunion Island<br/>
+I am a french big data consultant a mix of skills between data engineer, analyst, science. I also like to get my hand dirty with API and backend dev.  
+> *raised in Reunion Island, love dogs, working-out and trail running 🇷🇪*
+<br>
+
 
 - 👔 I am currently working in Brussels for [Riaktr](https://www.riaktr.com/) as a Big Data Consultant 
 - 🤝 I'm building with [Naas](https://www.naas.ai/) a low code tool to interact with Notion API
 - 🌱  I'm currently learning Deep Learning with [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
-- 💬 Ask me questions about NumPy and pandas
+- 💬 Ask me questions about pandas or PySpark 
 
 
 ### My projects
