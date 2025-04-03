@@ -4,10 +4,9 @@ I am a french big data consultant a mix of skills between data engineer, analyst
 <br>
 
 
-- 👔 I am currently working in Brussels for [Riaktr](https://www.riaktr.com/) as a Big Data Consultant 
-- 🤝 I'm building with [Naas](https://www.naas.ai/) a low code tool to interact with Notion API
-- 🌱  I'm currently learning Deep Learning with [Fast.ai](https://course.fast.ai/#How-do-I-get-started?)
-- 💬 Ask me questions about pandas or PySpark 
+- 👔 I am currently working in Brussels for [IPM](https://www.ipmgroup.be/) as a Data Engineer 
+- 🌱  I'm currently reading [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+- 💬 Ask me questions about Data Plateforms 
 
 
 ### My projects
