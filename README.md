@@ -3,6 +3,8 @@ Tech enthusiast specializing in data engineering
 _Raised on Réunion Island 🇷🇪 Love dogs, working-out and trail running._
 
 
-📬 axel.rasse97434@gmail.com — always open to interesting projects.
+📬 axel.rasse97434@gmail.com  
+_always open to interesting projects_
+
 
 
